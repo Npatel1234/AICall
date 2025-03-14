@@ -95,12 +95,4 @@ The agent will follow this flow:
 - Enhanced security for sensitive data
 - Deployment on cloud platforms
 
-## License
-MIT License
-
-## Contributing
-Feel free to submit issues and pull requests.
-
-## Contact
-For any queries, contact [your_email@example.com].
 
